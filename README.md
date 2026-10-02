@@ -16,6 +16,8 @@ Rather than focusing on large-scale production, the project explores the fundame
 
 The project is also part of my ongoing game development portfolio and experimentation with Unity.
 
+Game Download : https://systembug.itch.io/dragonslavia
+
 ---
 
 ## ✨ Features
